@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+<main>
+    <section class="hero">
+        <h1>欢迎来到我的博客</h1>
+        <p>这里是你的个人空间，分享技术、生活、思考与灵感...</p>
+        <a href="#articles" class="btn">查看最新文章</a>
+    </section>
+</main>
